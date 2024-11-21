@@ -1,2 +1,3 @@
 First line of the text1
 Artificial intelligence (AI) is technology that enables computers and machines to simulate human learning, comprehension, problem solving, decision making, creativity and autonomy. Applications and devices equipped with AI can see and identify objects. They can understand and respond to human language
+Saib bhai shera
